@@ -1,3 +1,4 @@
-from encodedup import duplicate_encode
+from weird import toWeirdCase
 
-print(duplicate_encode('(( @'))
+print(toWeirdCase("This is a test"))
+
