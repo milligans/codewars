@@ -1,4 +1,4 @@
-from weird import toWeirdCase
+from squareevery import square_digits
 
-print(toWeirdCase("This is a test"))
+print(square_digits(9119))
 
