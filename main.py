@@ -1,4 +1,6 @@
-from squareevery import square_digits
+from createphonenumber import create_phone_number
 
-print(square_digits(9119))
+print(create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]))
+
+
 
